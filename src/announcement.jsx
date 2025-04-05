@@ -5,9 +5,34 @@ function Announcement(){
         <div className="container">
             <h2 className="h2"><u>Announcement:</u></h2>
             <ul>
-                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit consequuntur consectetur, quasi porro incidunt cumque, quibusdam cum odit obcaecati quidem mollitia! Maiores, excepturi harum. Modi qui assumenda at quas error.</li>
-                <li>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias odio ipsam ea quod consequatur mollitia molestiae natus quaerat placeat ullam error molestias libero adipisci minima quam vitae exercitationem, nulla veritatis?</li>
-                <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia placeat dolores, ut hic totam minus tempora ipsum illo? Aspernatur voluptas excepturi officiis facere rem nihil quisquam, magnam reprehenderit earum ut.</li>
+                <li>
+                    <b>Elevator Maintenance</b>
+                    <br />
+                    Date: April 8–10, 2025
+                    <br />
+                    Notice: Elevator 2 will be out of service for scheduled maintenance. Please use Elevator 1 or the stairs during this time. We apologize for any inconvenience.
+                    </li>
+                <li>
+                    <b>Community Networking Mixer</b>
+                    <br />
+                    Date: April 18, 2025
+                    <br />
+                    Time: 5:30 PM – 7:30 PM
+                    <br />
+                    Location: Rooftop Garden
+                    <br />
+                    Meet other building tenants, exchange ideas, and enjoy refreshments. Open to all office and retail tenants. RSVP by April 15.
+                </li>
+                <li>
+                    <b>Art Installation Opening</b>
+                    Date: April 22, 2025
+                    <br />
+                    Time: 6:00 PM
+                    <br />
+                    Location: Lobby & Rooftop Garden
+                    <br />
+                    The latest addition to the rooftop sculpture garden will be unveiled. Featuring local artist Maya Leong.
+                </li>
                 </ul>
         </div>
     );

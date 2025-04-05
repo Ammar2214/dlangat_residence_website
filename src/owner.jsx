@@ -4,11 +4,25 @@ function Owner(){
     return(
         <div className="container">
             <img className="img1" src={OwnerPic} alt="The owner"></img>
-            <h2 className='h2'><u>Owner Biography:</u></h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe eligendi eveniet neque dignissimos et nesciunt soluta ratione voluptates nam sit reprehenderit quisquam perspiciatis nemo, ducimus dolor eaque veritatis veniam fugiat?</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas nihil nemo cum quisquam eos debitis facilis itaque, enim culpa aliquid harum at, omnis nulla. Iste nulla iusto nihil placeat ipsa?</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere nulla numquam impedit earum distinctio architecto laboriosam cumque repellat. Sapiente quam, in quaerat deserunt ex doloribus? Saepe nobis corrupti eligendi nulla!</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Atque possimus quia qui reprehenderit laudantium excepturi soluta velit cumque magnam ipsum amet odit labore reiciendis repellendus recusandae sequi dicta, eaque impedit libero quas autem architecto doloremque. Doloremque quis reprehenderit rem laboriosam molestiae odio! Ad culpa porro nisi tenetur tempora accusamus reprehenderit.</p>
+            <h2 className='h2'><u>Meet up with the owner</u></h2>
+            <p className='pname'> 
+                <b>Name: Samuel L. Jackson
+                <br />
+                Age: 47
+                <br />
+                Occupation: Real Estate Developer
+                <br />
+                Company: Whitmore Properties, LLC
+                </b>
+            </p>
+            <p>Background: Samuel has over 20 years of experience in commercial and residential real estate. He started out flipping houses in his hometown of Denver, Colorado, before expanding into luxury condo developments and office complexes across the western U.S.</p>
+            <p>Ownership History: Purchased the building in 2016 after a major renovation project. Currently leases out space to tech startups and boutique retailers.</p>
+            <p>
+                Personality: Known for being hands-on, detail-oriented, and committed to sustainable building practices
+                <br />
+                <br />
+                Fun Fact: A huge supporter of the arts, Samuel has a sculpture garden on the rooftop open to the public once a month.
+            </p>
         </div>
     );
 

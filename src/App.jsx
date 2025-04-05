@@ -8,8 +8,8 @@ function App() {
   return (
     <>
     <Header/>
-    <Owner/>
     <Announcement/>
+    <Owner/>
     <ReportForm/>
     </>
   )
