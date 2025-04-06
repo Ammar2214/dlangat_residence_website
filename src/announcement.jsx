@@ -25,6 +25,7 @@ function Announcement(){
                 </li>
                 <li>
                     <b>Art Installation Opening</b>
+                    <br />
                     Date: April 22, 2025
                     <br />
                     Time: 6:00 PM
