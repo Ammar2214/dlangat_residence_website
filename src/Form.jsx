@@ -4,20 +4,23 @@ function ReportForm(){
       <div className="container">
         <h2><u>Report Form:</u></h2>
         <form>
-          <label>Name</label>
+          <label>Name: </label>
           <input
             required
           />
           <br />
-          <label>Email</label>
+          <br />
+          <label>Email: </label>
           <input
             required
           />
           <br />
-          <label>Report</label>
+          <br />
+          <label>Report: </label>
           <textarea
             required
           />
+          <br />
           <br />
           <button type="submit">Submit Report</button>
         </form>
